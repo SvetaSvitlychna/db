@@ -203,13 +203,6 @@
        "category": "bicycle"
     },
     {
-       "id": 29,
-       "image": "images/prod31W.jpg",
-       "name": "Bicycle 13",
-       "price": 360,
-       "category": "bicycle"
-    },
-    {
        "id": 30,
        "image": "images/prod33ClothM.jpg",
        "name": "Clothes 1",
