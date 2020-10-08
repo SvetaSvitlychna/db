@@ -151,35 +151,35 @@
        "image": "assets/images/prod24AS.jpg",
        "name": "Assessories 7",
        "price": 460,
-       "categoty": "accessories"
+       "category": "accessories"
     },
     {
        "id": 22,
        "image": "assets/images/prod23AS.jpeg",
        "name": "Assessories 6",
        "price": 470,
-       "categoty": "accessories"
+       "category": "accessories"
     },
     {
        "id": 36,
        "image": "assets/images/prod25K.jpg",
        "name": "Bicycle 7",
        "price": 430,
-       "categoty": "bicycle"
+       "category": "bicycle"
     },
     {
        "id": 24,
        "image": "assets/images/prod26U.jpg",
        "name": "Bicycle 8",
        "price": 420,
-       "categoty": "bicycle"
+       "category": "bicycle"
     },
     {
        "id": 25,
        "image": "assets/images/prod27UT.jpg",
        "name": "Bicycle 9",
        "price": 410,
-       "categoty": "bicycle"
+       "category": "bicycle"
     },
     {
        "id": 26,
